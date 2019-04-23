@@ -1,1 +1,1 @@
-This file just for testing the git repository
+changes in new example 
